@@ -25,8 +25,9 @@ Keep in mind, going down a route, failing and then deciding that that is the wro
 - Dashboard showing application health and metrics
 - Secure configuration at the network level
 - Secure configuration at the software level
+- Documentation
 - Architecture diagram
-- CI Pipeline (with different steps: build, test, analyze)
+- CI Pipeline (with different steps: build, test, analyse)
 - Automatic deploys when code is merged to master
 - Automatic deploys on new branches / pull requests
 - Caching that caches the apps' output for the correct period of time
